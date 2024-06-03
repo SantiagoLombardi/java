@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Mensaje
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Mensaje\ here.\r\n\ \r\n\ @author\ (Lescano\ Jos\u00E9,\ Lombardi\ Santiago)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Mensaje()
+comment2.params=pos\ linea
+comment2.target=void\ agregarLinea(int,\ java.lang.String)
+comment3.params=obj
+comment3.target=boolean\ equals(java.lang.Object)
+comment4.params=
+comment4.target=java.lang.String\ obtenerPrimeraLinea()
+comment5.params=
+comment5.target=java.util.List\ obtenerLineas()
+numComments=6

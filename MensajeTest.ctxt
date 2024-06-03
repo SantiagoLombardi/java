@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=MensajeTest
+comment0.text=\r\n\ The\ test\ class\ MensajeTest.\r\n\r\n\ @author\ \ (Lescano\ Jos\u00E9,\ Lombardi\ Santiago)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment2.params=
+comment2.target=void\ agregarLineaValida()
+comment3.params=
+comment3.target=void\ agregarLineaInvalida()
+comment4.params=
+comment4.target=void\ mensajeIgual()
+comment5.params=
+comment5.target=void\ mensajeDiferente()
+numComments=6
